@@ -1,0 +1,36 @@
+.jumbotron{
+    padding: 1em 0;
+}
+h2,h5{
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+header nav.bg-dark {
+    background-color: #0E2F4D !important;
+}
+
+header ul {
+    list-style: none;
+    margin-bottom: 0;
+    height: 100%;
+    display: inline-block;
+}
+
+header ul li {
+    display: inline-flex;
+    padding: 0 1em;
+    height: 100%;
+}
+
+header a {
+    color: inherit;
+}
+
+header a:hover {
+    color: white;
+    text-decoration: none;
+}

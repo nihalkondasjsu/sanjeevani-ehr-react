@@ -1,0 +1,15 @@
+custom-tab-link{
+    opacity: 0.75;
+}
+
+custom-tab-link.active{
+    opacity: 1.0;
+}
+
+custom-tab{
+    display: none;
+}
+
+custom-tab.active{
+    display: initial;
+}
